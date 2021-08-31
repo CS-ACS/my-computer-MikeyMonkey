@@ -1,3 +1,4 @@
+<img width="552" alt="Screen Shot 2021-08-31 at 11 41 04 AM" src="https://user-images.githubusercontent.com/89731638/131471268-4e4617da-08a0-4f8e-a6df-ac34c61ea813.png">
 # My Computer
 
 ### Model Name
