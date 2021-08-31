@@ -18,4 +18,4 @@
   Activation Lock Status:	Enabled
 
 - Yes I like my computer Ive had it for about 8/9 months.
-- My computer whemn it is operating alot of things at once tends to slow down and lose alot of bat
+- My computer whemn it is operating alot of things at once tends to slow down and lose alot of battery. Also when I charge my phone and doing alot of things it tends to slow down.
